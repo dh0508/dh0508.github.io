@@ -2,7 +2,7 @@
     <div class="thumbnail">
         <div class="transbox">
             {% if page.title %}
-                <span class="post-title">{{ page.title }}</span>
+                <span class="post-title">{{ page.title | slice: 1, 99 }}</span>
             {% endif %}
             <div class="post-info">
                 {% if page_level > 2 %}
