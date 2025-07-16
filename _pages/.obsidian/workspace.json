@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "다이나믹 프로그래밍"
             }
+          },
+          {
+            "id": "9d2a7b052a86d709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PS/Baekjoon/365.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "365"
+            }
           }
         ]
       },
