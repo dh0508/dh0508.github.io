@@ -52,3 +52,5 @@ defaults:
 kramdown:
   input: GFM
   hard_wrap: true
+
+future: true
