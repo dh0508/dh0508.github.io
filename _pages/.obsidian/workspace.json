@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/baekjoon/1. bronze/2864.md",
+                "file": "PS/baekjoon/3. gold/10422.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2864"
+              "title": "10422"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "571fded19ad39360",
   "lastOpenFiles": [
-    "PS/baekjoon/3. gold/10422.md",
+    "PS/baekjoon/2. silver/15966.md",
     "PS/baekjoon/1. bronze/2864.md",
-    "PS/baekjoon/2. silver/15966.md"
+    "PS/baekjoon/3. gold/10422.md"
   ]
 }
