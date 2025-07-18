@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/Baekjoon/3. Gold/1990.md",
+                "file": "CS/Algorithm/소수 판정.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1990"
+              "title": "소수 판정"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "4d114b70284e4aae",
   "lastOpenFiles": [
-    "CS/Algorithm/소수 판정.md",
     "PS/Baekjoon/3. Gold/1990.md",
+    "CS/Algorithm/소수 판정.md",
     "PS/Baekjoon/3. Gold/10422.md",
     "CS/Algorithm/에라토스테네스의 체.md",
     "아직안함.md",
