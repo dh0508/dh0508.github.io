@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algorithm/소수 판정.md",
+                "file": "PS/Baekjoon/3. Gold/1990.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "소수 판정"
+              "title": "1990"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algorithm/소수 판정.md",
+                "file": "PS/Baekjoon/3. Gold/1990.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소수 판정"
+              "title": "1990"
             }
           }
         ]
@@ -189,10 +189,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4d114b70284e4aae",
+  "active": "b2a0e363dbae2de4",
   "lastOpenFiles": [
-    "PS/Baekjoon/3. Gold/1990.md",
     "CS/Algorithm/소수 판정.md",
+    "PS/Baekjoon/3. Gold/1990.md",
     "PS/Baekjoon/3. Gold/10422.md",
     "CS/Algorithm/에라토스테네스의 체.md",
     "아직안함.md",
