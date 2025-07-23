@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
+                "file": "CS/Algorithm/다이나믹 프로그래밍.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
+              "title": "다이나믹 프로그래밍"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
+                "file": "CS/Algorithm/다이나믹 프로그래밍.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
+              "title": "다이나믹 프로그래밍"
             }
           }
         ]
@@ -192,10 +192,10 @@
   "active": "8730b60e7c125030",
   "lastOpenFiles": [
     "PS/Baekjoon/365.md",
+    "CS/Algorithm/다이나믹 프로그래밍.md",
     "CS/Machine Learning/K-Nearest Neighbors.md",
     "CS/Machine Learning/index.md",
     "CS/index.md",
-    "CS/Algorithm/다이나믹 프로그래밍.md",
     "Pasted image 20250723184419.png",
     "CS/Machine Learning",
     "PS/Baekjoon/3. Gold/1990.md",
