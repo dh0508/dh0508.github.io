@@ -22,8 +22,7 @@ K-NN은 데이터의 분류를 예측할 때, 학습 데이터 중 가장 가까
 수식으로 표현하면 \\(\sqrt{(x_1-x_2)^2 + (y_1-y_2)^2}\\) 로 나타낼 수 있다.
 
 
-<img src="https://i.imgur.com/VSgGbjz.png" style="width:200px; height:auto;">
-<span style="color:gray">출처: 위키피디아</span>
+<img src="https://i.imgur.com/VSgGbjz.png" style="width:200px; height:auto;"><span style="color:gray">출처: 위키피디아</span>
 
 
 
