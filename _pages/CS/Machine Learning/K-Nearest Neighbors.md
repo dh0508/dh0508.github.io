@@ -21,7 +21,9 @@ K-NN은 데이터의 분류를 예측할 때, 학습 데이터 중 가장 가까
 유클리드 거리는 우리가 수학에서 일반적으로 사용하는 점 사이 거리공식이다.
 수식으로 표현하면 \\(\sqrt{(x_1-x_2)^2 + (y_1-y_2)^2}\\) 로 나타낼 수 있다.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Manhattan_distance.svg/250px-Manhattan_distance.svg.png" width="100" height="100" /><span style="color: gray">출처 : 위키피디아</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Manhattan_distance.svg/250px-Manhattan_distance.svg.png" width="100" height="100"><br> <span style="color:gray">출처: 위키피디아</span></sup></sub>
+
+
 위 그림에서 빨간색, 파란색, 노란색 선의 길이가 맨해튼 거리,
 초록색 선의 길이가 유클리드 거리이다.
 
