@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ec32976bbe7b89c",
+        "id": "e714ab5fdb5b0b33",
         "type": "tabs",
         "children": [
           {
-            "id": "8730b60e7c125030",
+            "id": "86e566c5cccc1712",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b45a7c8d54f1d0f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a3bfc243199dbd4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
+              "title": "새 탭"
             }
           }
         ]
@@ -189,10 +165,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8730b60e7c125030",
+  "active": "86e566c5cccc1712",
   "lastOpenFiles": [
-    "CS/Algorithm/에라토스테네스의 체.md",
     "CS/Machine Learning/K-Nearest Neighbors.md",
+    "CS/Algorithm/에라토스테네스의 체.md",
     "CS/Algorithm/소수 판정.md",
     "CS/Algorithm/다이나믹 프로그래밍.md",
     "PS/Baekjoon/365.md",
