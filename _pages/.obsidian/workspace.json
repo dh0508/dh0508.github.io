@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대외활동/아주대 하계 자율주행 시뮬레이션 교육.md",
+                "file": "PS/Baekjoon/2. Silver/1755.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "아주대 하계 자율주행 시뮬레이션 교육"
+              "title": "1755"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대외활동/아주대 하계 자율주행 시뮬레이션 교육.md",
+                "file": "PS/Baekjoon/2. Silver/1755.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아주대 하계 자율주행 시뮬레이션 교육"
+              "title": "1755"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -191,8 +192,14 @@
   },
   "active": "7feef99c4b2e6097",
   "lastOpenFiles": [
-    "CS/Machine Learning/K-Nearest Neighbors.md",
+    "PS/Baekjoon/2. Silver/15966.md",
+    "PS/Baekjoon/2. Silver/1755.md",
+    "PS/Baekjoon/1. Bronze/2864.md",
     "대외활동/아주대 하계 자율주행 시뮬레이션 교육.md",
+    "PS/Baekjoon/3. Gold/10422.md",
+    "PS/Baekjoon/3. Gold/1990.md",
+    "PS/Baekjoon/2. Silver/17216.md",
+    "CS/Machine Learning/K-Nearest Neighbors.md",
     "CS/Algorithm/다이나믹 프로그래밍.md",
     "Pasted image 20250807175406.png",
     "대외활동/index.md",
@@ -205,12 +212,8 @@
     "CS/index.md",
     "Pasted image 20250723184419.png",
     "CS/Machine Learning",
-    "PS/Baekjoon/3. Gold/1990.md",
-    "PS/Baekjoon/3. Gold/10422.md",
     "아직안함.md",
-    "PS/Baekjoon/2. Silver/17216.md",
     "dp1.png",
-    "PS/Baekjoon/2. Silver/15966.md",
     "PS/baekjoon/2. silver/15966.md",
     "PS/baekjoon/1. bronze/2864.md",
     "PS/baekjoon/3. gold/10422.md"
