@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/Baekjoon/2. Silver/26091.md",
+                "file": "PS/Baekjoon/3. Gold/28683.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "26091"
+              "title": "28683"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/Baekjoon/2. Silver/26091.md",
+                "file": "PS/Baekjoon/3. Gold/28683.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26091"
+              "title": "28683"
             }
           }
         ]
@@ -190,14 +190,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7feef99c4b2e6097",
+  "active": "d2044902fdcf867d",
   "lastOpenFiles": [
-    "upload.acmicpc.webp",
     "PS/Baekjoon/2. Silver/26091.md",
+    "PS/Baekjoon/3. Gold/28683.md",
+    "PS/Baekjoon/3. Gold/1990.md",
+    "upload.acmicpc.webp",
     "PS/Baekjoon/2. Silver/15966.md",
     "PS/Baekjoon/2. Silver/17216.md",
     "PS/Baekjoon/3. Gold/10422.md",
-    "PS/Baekjoon/3. Gold/1990.md",
     "PS/Baekjoon/365.md",
     "PS/Baekjoon/2. Silver/1755.md",
     "PS/Baekjoon/1. Bronze/2864.md",
