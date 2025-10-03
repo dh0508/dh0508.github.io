@@ -8,6 +8,7 @@ tags:
 date: "2025-10-01"
 thumbnail: "/assets/img/thumbnail/aws.png"
 ---
+>본 글은 춘천 AWS 딥레이서 챔피언십에 참여한 기록을 작성한 글입니다.
 
 # 대회 정보
 > [2025 춘천 AWS 딥레이서 챔피언십](https://chuncheon-deepracer.ai-castle.com/2025/)
