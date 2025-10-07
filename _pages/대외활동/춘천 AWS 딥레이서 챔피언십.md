@@ -43,7 +43,7 @@ CPU만 쓰는 코드스페이스는 학습이 느렸고 아직 불안정했기�
 
 |기록|순위|주행영상|
 |-|-|-|
-|00:38.193초|[68/87](https://chuncheon-deepracer.ai-castle.com/2025/leaderboard/round1.html)|[주행영상](https://pub-f629167621be47f8b772de6b0fbbe30b.r2.dev/chucheon-deepracer/2025/round1/068.mp4)|
+|00:38.193초|[68/100](https://chuncheon-deepracer.ai-castle.com/2025/leaderboard/round1.html)|[주행영상](https://pub-f629167621be47f8b772de6b0fbbe30b.r2.dev/chucheon-deepracer/2025/round1/068.mp4)|
 
 
 # 패자부활전
@@ -55,7 +55,7 @@ CPU만 쓰는 코드스페이스는 학습이 느렸고 아직 불안정했기�
 
 |기록|순위|주행영상|
 |-|-|-|
-|00:15.338초|[1/35](https://chuncheon-deepracer.ai-castle.com/2025/leaderboard/round2b.html)|[주행영상](https://pub-f629167621be47f8b772de6b0fbbe30b.r2.dev/chucheon-deepracer/2025/round2b/001.mp4)|
+|00:15.338초|[1/43](https://chuncheon-deepracer.ai-castle.com/2025/leaderboard/round2b.html)|[주행영상](https://pub-f629167621be47f8b772de6b0fbbe30b.r2.dev/chucheon-deepracer/2025/round2b/001.mp4)|
 
 
 # 결승
