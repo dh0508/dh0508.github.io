@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대외활동/2025 대학생 창작모빌리티 경진대회.md",
+                "file": "대외활동/AutoRace 2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025 대학생 창작모빌리티 경진대회"
+              "title": "AutoRace 2025"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/Baekjoon/4. Platinum/14601.md",
-                "mode": "source",
+                "file": "대외활동/AutoRace 2025.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "14601"
+              "title": "AutoRace 2025"
             }
           }
         ]
@@ -192,13 +192,14 @@
   },
   "active": "5d47fddf4a1a7cf1",
   "lastOpenFiles": [
+    "대외활동/아주대 하계 자율주행 시뮬레이션 교육.md",
+    "대외활동/2025 대학생 창작모빌리티 경진대회.md",
+    "대외활동/AutoRace 2025.md",
+    "대외활동/2025 춘천 AWS 딥레이서 챔피언십.md",
     "PS/Baekjoon/4. Platinum/14601.md",
     "PS/Baekjoon/3. Gold/1990.md",
     "PS/Baekjoon/3. Gold/10422.md",
     "PS/Baekjoon/3. Gold/28683.md",
-    "대외활동/2025 대학생 창작모빌리티 경진대회.md",
-    "대외활동/2025 춘천 AWS 딥레이서 챔피언십.md",
-    "대외활동/아주대 하계 자율주행 시뮬레이션 교육.md",
     "PS/Baekjoon/4. Platinum/index.md",
     "PS/Baekjoon/3. Gold/index.md",
     "PS/Baekjoon/4. Platinum",
@@ -223,7 +224,6 @@
     "CS/Machine Learning",
     "아직안함.md",
     "dp1.png",
-    "PS/baekjoon/2. silver/15966.md",
-    "PS/baekjoon/1. bronze/2864.md"
+    "PS/baekjoon/2. silver/15966.md"
   ]
 }
