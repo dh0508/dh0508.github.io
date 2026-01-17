@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Activity/Competitions/AutoRace 2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "AutoRace 2025"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2e630230e126d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee61ca54634312e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activity/Competitions/AutoRace 2025.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AutoRace 2025"
             }
           }
         ]
@@ -170,14 +190,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5d47fddf4a1a7cf1",
+  "active": "2ee61ca54634312e",
   "lastOpenFiles": [
+    "Activity/Competitions/AutoRace 2025.md",
+    "index.md",
     "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
     "Activity/Etc/index.md",
     "Activity/index.md",
     "Activity/Competitions/index.md",
     "Activity/Etc",
-    "Activity/Competitions/AutoRace 2025.md",
     "Activity/Competitions",
     "Activity/Competitions/2025 대학생 창작모빌리티 경진대회.md",
     "Activity/Competitions/2025 춘천 AWS 딥레이서 챔피언십.md",
@@ -199,7 +220,6 @@
     "PS/Baekjoon/1. Bronze/2864.md",
     "CS/Algorithm/다이나믹 프로그래밍.md",
     "Pasted image 20250807175406.png",
-    "index.md",
     "Activity",
     "CS/Algorithm/에라토스테네스의 체.md",
     "CS/Algorithm/소수 판정.md",
