@@ -6,7 +6,6 @@
       {
         "id": "570076ead7d686d5",
         "type": "tabs",
-        "dimension": 47.0763723150358,
         "children": [
           {
             "id": "5d47fddf4a1a7cf1",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activity/Training Programs/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "index"
-            }
-          }
-        ]
-      },
-      {
-        "id": "265ff4584184c592",
-        "type": "tabs",
-        "dimension": 52.9236276849642,
-        "children": [
-          {
-            "id": "74b5be56bda0d08b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Activity/Competitions & Contests/AutoRace 2025.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "AutoRace 2025"
             }
           }
         ]
@@ -194,15 +172,15 @@
   },
   "active": "5d47fddf4a1a7cf1",
   "lastOpenFiles": [
+    "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
+    "Activity/Etc/index.md",
     "Activity/index.md",
-    "Activity/Training Programs/index.md",
-    "Activity/Competitions & Contests/index.md",
-    "Activity/Training Programs",
-    "Activity/Training Programs/아주대 하계 자율주행 시뮬레이션 교육.md",
-    "Activity/Competitions & Contests/AutoRace 2025.md",
-    "Activity/Competitions & Contests",
-    "Activity/Competitions & Contests/2025 대학생 창작모빌리티 경진대회.md",
-    "Activity/Competitions & Contests/2025 춘천 AWS 딥레이서 챔피언십.md",
+    "Activity/Competitions/index.md",
+    "Activity/Etc",
+    "Activity/Competitions/AutoRace 2025.md",
+    "Activity/Competitions",
+    "Activity/Competitions/2025 대학생 창작모빌리티 경진대회.md",
+    "Activity/Competitions/2025 춘천 AWS 딥레이서 챔피언십.md",
     "PS/Baekjoon/4. Platinum/14601.md",
     "PS/Baekjoon/3. Gold/1990.md",
     "PS/Baekjoon/3. Gold/10422.md",
