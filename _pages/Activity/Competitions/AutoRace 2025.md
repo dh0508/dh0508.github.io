@@ -1,5 +1,5 @@
 ---
-title: "[대외활동] AutoRace 2025 스케일카 자율주행 경진대회"
+title: "[대회] AutoRace 2025 스케일카 자율주행 경진대회"
 tags:
     - COSS
     - COSHOW
