@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "570076ead7d686d5",
+        "id": "6a159c2b16a104c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5d47fddf4a1a7cf1",
+            "id": "03998df8db49611c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "아주대 하계 자율주행 시뮬레이션 교육"
+              "title": "새 탭"
             }
           }
         ]
@@ -170,12 +166,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6d81885b4f84462a",
+  "active": "03998df8db49611c",
   "lastOpenFiles": [
+    "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
+    "무제.md",
     "Activity/Competitions/AutoRace 2025.md",
     "Activity/Competitions/2025 춘천 AWS 딥레이서 챔피언십.md",
     "Activity/Competitions/2025 대학생 창작모빌리티 경진대회.md",
-    "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
     "index.md",
     "Activity/Etc/index.md",
     "Activity/index.md",
@@ -203,7 +200,6 @@
     "Activity",
     "CS/Algorithm/에라토스테네스의 체.md",
     "CS/Algorithm/소수 판정.md",
-    "CS/index.md",
     "Pasted image 20250723184419.png",
     "CS/Machine Learning",
     "dp1.png"
