@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function(){
     });
 
     // Change Datk/Light Theme
-    // 야간 모드
+    // 나이트 모드
     // const themeButton = document.querySelectorAll("#btn-brightness");
     // const innerContent = document.querySelector('main');
 
