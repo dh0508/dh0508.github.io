@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algorithm/소수 판정.md",
+                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소수 판정"
+              "title": "K-Nearest Neighbors"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8e97db33ffc580b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b2612c42f217c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-Nearest Neighbors"
             }
           }
         ]
@@ -170,8 +190,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "03998df8db49611c",
+  "active": "80b2612c42f217c9",
   "lastOpenFiles": [
+    "CS/Algorithm/소수 판정.md",
     "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
     "무제.md",
     "Activity/Competitions/AutoRace 2025.md",
@@ -203,7 +224,6 @@
     "Pasted image 20250807175406.png",
     "Activity",
     "CS/Algorithm/에라토스테네스의 체.md",
-    "CS/Algorithm/소수 판정.md",
     "Pasted image 20250723184419.png",
     "CS/Machine Learning",
     "dp1.png"
