@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
+                "file": "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
+              "title": "아주대 하계 자율주행 시뮬레이션 교육"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Machine Learning/K-Nearest Neighbors.md",
+                "file": "Activity/Competitions/2025 대학생 창작모빌리티 경진대회.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
+              "title": "2025 대학생 창작모빌리티 경진대회"
             }
           }
         ]
@@ -190,14 +190,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "80b2612c42f217c9",
+  "active": "03998df8db49611c",
   "lastOpenFiles": [
+    "Activity/Competitions/AutoRace 2025.md",
+    "Activity/Competitions/2025 대학생 창작모빌리티 경진대회.md",
+    "Activity/Competitions/2025 춘천 AWS 딥레이서 챔피언십.md",
+    "CS/Machine Learning/K-Nearest Neighbors.md",
     "CS/Algorithm/소수 판정.md",
     "Activity/Etc/아주대 하계 자율주행 시뮬레이션 교육.md",
     "무제.md",
-    "Activity/Competitions/AutoRace 2025.md",
-    "Activity/Competitions/2025 춘천 AWS 딥레이서 챔피언십.md",
-    "Activity/Competitions/2025 대학생 창작모빌리티 경진대회.md",
     "index.md",
     "Activity/Etc/index.md",
     "Activity/index.md",
@@ -211,7 +212,6 @@
     "PS/Baekjoon/4. platinum/index.md",
     "PS/Baekjoon/3. Gold/index.md",
     "PS/Baekjoon/4. platinum",
-    "CS/Machine Learning/K-Nearest Neighbors.md",
     "CS/Machine Learning/index.md",
     "PS/Baekjoon/2. Silver/26091.md",
     "upload.acmicpc.webp",
